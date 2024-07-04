@@ -1,6 +1,7 @@
 # CSS-Basic-Project
+```
 ###style.css###
-```body {
+body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #000;
@@ -89,9 +90,9 @@ input[type="submit"] {
     border: none;
     color: #fff;
     cursor: pointer;
-}```
+}
 ###home.html###
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -117,12 +118,11 @@ input[type="submit"] {
         <button id="signup">Sign Up</button>
     </div>
 </body>
-</html>```
+</html>
 
-![image](https://github.com/sathiya7g/CSS-Basic-Project/blob/main/Screenshot%202024-07-02%20202629.png)
 
 ###product.html###
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -155,12 +155,11 @@ input[type="submit"] {
         
     </div>
 </body>
-</html>```
-![image](https://github.com/sathiya7g/CSS-Basic-Project/blob/main/Screenshot%202024-07-02%20202650.png)
+</html>
 
 ###council.html###
 
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -214,12 +213,11 @@ input[type="submit"] {
         </div>
     </div>
 </body>
-</html>```
+</html>
 
-![image](https://github.com/sathiya7g/CSS-Basic-Project/blob/main/Screenshot%202024-07-02%20202707.png)
 ###contact_us.html###
 
-```<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -260,6 +258,12 @@ input[type="submit"] {
         </div>
     </div>
 </body>
-</html>```
+</html>
+```
 
+
+
+![image](https://github.com/sathiya7g/CSS-Basic-Project/blob/main/Screenshot%202024-07-02%20202629.png)
+![image](https://github.com/sathiya7g/CSS-Basic-Project/blob/main/Screenshot%202024-07-02%20202650.png)
+![image](https://github.com/sathiya7g/CSS-Basic-Project/blob/main/Screenshot%202024-07-02%20202707.png)
 ![image](https://github.com/sathiya7g/CSS-Basic-Project/blob/main/Screenshot%202024-07-02%20203012.png)
